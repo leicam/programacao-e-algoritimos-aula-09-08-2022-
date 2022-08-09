@@ -1,0 +1,16 @@
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\bin\Debug\net5.0\MeuSegundoProjeto.exe
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\bin\Debug\net5.0\MeuSegundoProjeto.deps.json
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\bin\Debug\net5.0\MeuSegundoProjeto.runtimeconfig.json
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\bin\Debug\net5.0\MeuSegundoProjeto.runtimeconfig.dev.json
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\bin\Debug\net5.0\MeuSegundoProjeto.dll
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\bin\Debug\net5.0\MeuSegundoProjeto.pdb
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.csproj.AssemblyReference.cache
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.AssemblyInfoInputs.cache
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.AssemblyInfo.cs
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.csproj.CoreCompileInputs.cache
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.dll
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\refint\MeuSegundoProjeto.dll
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.pdb
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\MeuSegundoProjeto.genruntimeconfig.cache
+L:\LAB01\ALgoritimos e Programacao\MeuSegundoProjeto\MeuSegundoProjeto\obj\Debug\net5.0\ref\MeuSegundoProjeto.dll
